@@ -4,8 +4,6 @@ ambiance B-positive
 plage I-positive
 Oléronaise I-positive
 . O
-Oléronaise O
-. NO_TAG_FOUND
 
 La O
 salle B-positive
@@ -14,21 +12,21 @@ jolie O
 et O
 bien O
 chauffée O
-. NO_TAG_FOUND
+. O
 
 Ça O
 ne O
 les O
 vaut O
 pas O
-. NO_TAG_FOUND
+. O
 
 A O
 ne O
 surtout O
 pas O
 manquer O
-. NO_TAG_FOUND
+. O
 
 Alors O
 là O
@@ -60,7 +58,7 @@ c'est O
 le O
 lieu B-positive
 IDEAL O
-! NO_TAG_FOUND
+! O
 
 Nous O
 avons O
@@ -106,13 +104,13 @@ friture O
 baignée B-neutral
 de O
 graisse O
-. NO_TAG_FOUND
+. O
 
 mais O
 une O
 impression O
 d'inachevé O
-. NO_TAG_FOUND
+. O
 
 Temps B-negative
 d'attente I-negative
@@ -122,7 +120,7 @@ et O
 manque O
 évident B-neutral
 d'organisation O
-. NO_TAG_FOUND
+. O
 
 Le O
 restaurant B-positive
@@ -135,7 +133,7 @@ proche O
 du O
 Sacré B-neutral
 Coeur O
-. NO_TAG_FOUND
+. O
 
 En O
 dessert B-positive
@@ -159,9 +157,9 @@ avec O
 la O
 brioche O
 perdue O
-... NO_TAG_FOUND
+... O
 Superbe O
-! NO_TAG_FOUND
+! O
 
 Il O
 ne O
@@ -177,7 +175,7 @@ la O
 fin O
 du O
 repas O
-! NO_TAG_FOUND
+! O
 
 La O
 ballade B-neutral
@@ -186,7 +184,7 @@ apres O
 le O
 repas B-neutral
 s'impose O
-. NO_TAG_FOUND
+. O
 
 Déjà O
 en O
@@ -196,7 +194,7 @@ le O
 cadre B-positive
 est O
 exceptionnel O
-! NO_TAG_FOUND
+! O
 
 Superbe O
 cadre B-positive
@@ -204,7 +202,7 @@ si O
 on O
 mange O
 dehors O
-. NO_TAG_FOUND
+. O
 
 Cette O
 salle B-positive
@@ -239,7 +237,7 @@ là O
 les O
 soirs O
 d'affluence O
-. NO_TAG_FOUND
+. O
 
 On O
 commande O
@@ -267,8 +265,8 @@ du I-neutral
 concentré I-neutral
 de I-neutral
 tomates O
-... NO_TAG_FOUND
-! NO_TAG_FOUND
+... O
+! O
 
 Les O
 tarifs O
@@ -287,13 +285,13 @@ prestation O
 tout O
 aussi O
 banale O
-. NO_TAG_FOUND
+. O
 
 le O
 service B-positive
 est O
 nickel O
-. NO_TAG_FOUND
+. O
 
 Attente O
 démesurée B-neutral
@@ -314,7 +312,7 @@ en O
 propose O
 pas O
 d'autre O
-! NO_TAG_FOUND
+! O
 
 La O
 musique B-negative
@@ -322,19 +320,19 @@ musique B-negative
 vraiment O
 très O
 forte O
-. NO_TAG_FOUND
+. O
 
 A O
 éviter O
-! NO_TAG_FOUND
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
+! O
 
 Desserts B-negative
 originaux O
 et O
 légers O
-. NO_TAG_FOUND
+. O
 
 C'est O
 un O
@@ -343,7 +341,7 @@ rapport O
 qualité B-neutral
 / I-neutral
 prix O
-. NO_TAG_FOUND
+. O
 
 Enfin O
 la I-positive
@@ -361,7 +359,7 @@ salé O
 ( O
 divin O
 ) O
-. NO_TAG_FOUND
+. O
 
 Personnel B-negative
 hyper O
@@ -370,7 +368,7 @@ et O
 de O
 bon O
 conseil O
-. NO_TAG_FOUND
+. O
 
 On O
 y O
@@ -378,7 +376,7 @@ va O
 les O
 yeux O
 fermés O
-! NO_TAG_FOUND
+! O
 
 Bonne O
 cuisine B-positive
@@ -389,7 +387,7 @@ bémol O
 pour O
 le O
 service O
-. NO_TAG_FOUND
+. O
 
 Nous O
 avons O
@@ -406,7 +404,7 @@ et O
 les O
 prix O
 bas O
-. NO_TAG_FOUND
+. O
 
 A O
 la O
@@ -440,7 +438,7 @@ difficile O
 de O
 la O
 réussir O
-. NO_TAG_FOUND
+. O
 
 Arrivez B-neutral
 tôt O
@@ -449,7 +447,7 @@ car O
 se O
 remplit B-neutral
 rapidement O
-. NO_TAG_FOUND
+. O
 
 Juste O
 un O
@@ -459,7 +457,7 @@ sur O
 l O
 ' O
 assaisonnement B-positive
-. NO_TAG_FOUND
+. O
 
 Entrées B-neutral
 a O
@@ -467,7 +465,7 @@ partager O
 : O
 tres O
 bonnes O
-! NO_TAG_FOUND
+! O
 
 Cet O
 écriteau O
@@ -488,7 +486,7 @@ en O
 terrasse B-positive
 le O
 voient O
-. NO_TAG_FOUND
+. O
 
 Je O
 ne O
@@ -496,21 +494,21 @@ parle O
 pas O
 des O
 accompagnements O
-! NO_TAG_FOUND
+! O
 
 Une O
 catastrophe O
 à O
 éviter O
 absolument O
-. NO_TAG_FOUND
+. O
 
 La O
 côte B-negative
 de I-negative
 veau I-negative
 aussi O
-. NO_TAG_FOUND
+. O
 
 A O
 la O
@@ -526,7 +524,7 @@ citron O
 tout O
 simplement O
 immangeable O
-. NO_TAG_FOUND
+. O
 
 Ce O
 n'est O
@@ -534,14 +532,14 @@ pas O
 pour O
 le O
 régime O
-. NO_TAG_FOUND
+. O
 
 Le O
 personnel B-positive
 est O
 tres O
 attentionné O
-. NO_TAG_FOUND
+. O
 
 concept O
 étonnant O
@@ -560,8 +558,8 @@ l O
 ' O
 endroit B-positive
 convivial O
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
 le O
 tartare B-neutral
 est O
@@ -580,7 +578,7 @@ tout O
 a O
 fait O
 convenable O
-! NO_TAG_FOUND
+! O
 
 En O
 somme B-positive
@@ -616,7 +614,7 @@ et O
 c'était O
 très O
 bien O
-. NO_TAG_FOUND
+. O
 
 Continuez O
 comme O
@@ -625,7 +623,7 @@ je O
 vous O
 encourage B-neutral
 chaudement O
-! NO_TAG_FOUND
+! O
 
 Le O
 dessert B-positive
@@ -638,7 +636,7 @@ au O
 basilic B-neutral
 était O
 correct O
-. NO_TAG_FOUND
+. O
 
 TOUTES O
 LES B-neutral
@@ -648,9 +646,9 @@ SANS I-neutral
 GOUT I-neutral
 ET O
 SECHES B-neutral
-! NO_TAG_FOUND
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
+! O
 
 Depuis O
 nous O
@@ -662,7 +660,7 @@ dîner O
 à O
 plusieurs O
 reprises O
-. NO_TAG_FOUND
+. O
 
 J'y O
 suis O
@@ -694,7 +692,7 @@ devenu O
 un O
 vrai O
 cauchemar O
-. NO_TAG_FOUND
+. O
 
 Jeudi B-neutral
 dernier O
@@ -724,7 +722,7 @@ goûter O
 et O
 ses O
 girolles O
-. NO_TAG_FOUND
+. O
 
 La O
 voisine B-neutral
@@ -755,7 +753,7 @@ le O
 goût O
 du O
 vin O
-. NO_TAG_FOUND
+. O
 
 Beaucoup O
 trop O
@@ -769,13 +767,13 @@ les O
 clients O
 sont O
 entassés O
-. NO_TAG_FOUND
+. O
 
 Je O
 le O
 conseille O
 vivement O
-. NO_TAG_FOUND
+. O
 
 Dommage O
 que O
@@ -787,7 +785,7 @@ entendu O
 pendant O
 le O
 repas O
-. NO_TAG_FOUND
+. O
 
 Peu B-neutral
 de O
@@ -811,7 +809,7 @@ faire O
 des O
 bons O
 plats O
-! NO_TAG_FOUND
+! O
 
 Longue O
 attente B-negative
@@ -820,7 +818,7 @@ pour O
 avoir O
 ses O
 boissons O
-. NO_TAG_FOUND
+. O
 
 Dessert B-negative
 : O
@@ -834,14 +832,14 @@ mais O
 beaucoup O
 trop O
 sucrée O
-. NO_TAG_FOUND
+. O
 
 Choix B-negative
 de O
 dessert O
 quasi O
 inexistant O
-. NO_TAG_FOUND
+. O
 
 Le O
 spaguetti B-neutral
@@ -865,7 +863,7 @@ je O
 n'y O
 retournerais O
 pas O
-. NO_TAG_FOUND
+. O
 
 Les O
 galettes B-positive
@@ -879,7 +877,7 @@ excellentes O
 fines B-neutral
 et O
 légères O
-. NO_TAG_FOUND
+. O
 
 Une O
 belle O
@@ -889,7 +887,7 @@ choix O
 de O
 notre O
 part O
-. NO_TAG_FOUND
+. O
 
 Ce O
 restaurant B-positive
@@ -906,7 +904,7 @@ sobriété B-neutral
 de O
 sa O
 carte O
-. NO_TAG_FOUND
+. O
 
 Les O
 plats B-positive
@@ -916,7 +914,7 @@ de O
 l'entrée O
 au O
 dessert O
-. NO_TAG_FOUND
+. O
 
 Les O
 plus O
@@ -950,7 +948,7 @@ pour O
 les O
 repas B-neutral
 d'affaires O
-. NO_TAG_FOUND
+. O
 
 Cela O
 peut O
@@ -966,7 +964,7 @@ en O
 a O
 été O
 dérangé O
-. NO_TAG_FOUND
+. O
 
 J'ai O
 pris O
@@ -988,7 +986,7 @@ cidre B-positive
 € O
 40 O
 ) O
-. NO_TAG_FOUND
+. O
 
 Patron B-negative
 gentil O
@@ -1005,7 +1003,7 @@ attente O
 qui O
 reste O
 supportable O
-. NO_TAG_FOUND
+. O
 
 L'ensemble B-neutral
 faisait O
@@ -1020,7 +1018,7 @@ une O
 somme B-neutral
 très O
 correcte O
-. NO_TAG_FOUND
+. O
 
 on O
 n'a O
@@ -1076,9 +1074,9 @@ débarasser B-neutral
 les O
 assiettes B-positive
 vides O
-... NO_TAG_FOUND
+... O
 bref O
-! NO_TAG_FOUND
+! O
 
 Mais O
 pour O
@@ -1095,7 +1093,7 @@ vins I-neutral
 , O
 nous O
 reviendrons O
-! NO_TAG_FOUND
+! O
 
 De O
 surcroit B-neutral
@@ -1115,7 +1113,7 @@ un O
 excellent O
 vin B-neutral
 ) O
-. NO_TAG_FOUND
+. O
 
 Et O
 pas O
@@ -1127,7 +1125,7 @@ vous O
 avez O
 encore O
 faim O
-... NO_TAG_FOUND
+... O
 
 La O
 cuisine B-positive
@@ -1141,23 +1139,23 @@ réputation O
 de O
 ce O
 restaurant O
-. NO_TAG_FOUND
+. O
 
 Accueil B-negative
 au I-negative
 top O
-! NO_TAG_FOUND
+! O
 
 Un O
 scandale O
-! NO_TAG_FOUND
+! O
 
 Par O
 pitié B-neutral
 allez O
 ailleurs O
 merci O
-. NO_TAG_FOUND
+. O
 
 Nous O
 y O
@@ -1170,7 +1168,7 @@ n'avons O
 pas O
 été O
 déçus O
-! NO_TAG_FOUND
+! O
 
 Les O
 serveurs B-positive
@@ -1179,21 +1177,21 @@ très O
 souriants O
 et O
 patients O
-. NO_TAG_FOUND
+. O
 
 C'était O
 un O
 très O
 bon O
 déjeuner O
-. NO_TAG_FOUND
+. O
 
 Service B-positive
 agréable O
 qui O
 plus O
 est O
-. NO_TAG_FOUND
+. O
 
 Connaissant B-neutral
 bien O
@@ -1214,7 +1212,7 @@ du I-neutral
 plat I-neutral
 du I-neutral
 jour O
-. NO_TAG_FOUND
+. O
 
 ( O
 avec O
@@ -1232,7 +1230,7 @@ sur O
 une O
 belle O
 terrasse O
-. NO_TAG_FOUND
+. O
 
 Accueil B-positive
 très O
@@ -1249,7 +1247,7 @@ sympathique O
 et O
 très O
 professionnel O
-. NO_TAG_FOUND
+. O
 
 Le O
 poisson B-negative
@@ -1284,9 +1282,9 @@ pour O
 le O
 plaisir O
 gustatif B-neutral
-! NO_TAG_FOUND
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
+! O
 
 La O
 carte B-positive
@@ -1300,12 +1298,12 @@ plats B-neutral
 chauds O
 et O
 bons O
-! NO_TAG_FOUND
+! O
 
 Service B-positive
 quasiment O
 inexistant O
-. NO_TAG_FOUND
+. O
 
 Quant O
 à O
@@ -1316,7 +1314,7 @@ fruit O
 acide B-neutral
 et O
 pétillante B-neutral
-... NO_TAG_FOUND
+... O
 je O
 soupconne B-neutral
 qu'ils O
@@ -1325,7 +1323,7 @@ aient B-neutral
 mis O
 de O
 l'orangina O
-... NO_TAG_FOUND
+... O
 
 Menu B-positive
 du O
@@ -1335,7 +1333,7 @@ De O
 pire O
 en O
 pire O
-... NO_TAG_FOUND
+... O
 cette O
 crêperie B-negative
 que O
@@ -1360,7 +1358,7 @@ qualité O
 dans O
 les O
 assiettes O
-... NO_TAG_FOUND
+... O
 
 C'était O
 pas O
@@ -1394,7 +1392,7 @@ en O
 bas O
 de O
 l'escalier B-neutral
-... NO_TAG_FOUND
+... O
 ) O
 , O
 viande B-negative
@@ -1405,7 +1403,7 @@ cuite O
 , O
 vins B-positive
 chers O
-. NO_TAG_FOUND
+. O
 
 Le O
 service B-positive
@@ -1419,7 +1417,7 @@ fort O
 sympathique O
 et O
 compétent O
-. NO_TAG_FOUND
+. O
 
 Cela O
 m'oblige B-neutral
@@ -1434,14 +1432,14 @@ malgré O
 ma O
 nature B-neutral
 conciliante O
-. NO_TAG_FOUND
+. O
 
 Nous O
 cessons B-neutral
 immédiatement I-neutral
 le O
 repas O
-. NO_TAG_FOUND
+. O
 
 une O
 carte B-positive
@@ -1467,12 +1465,12 @@ pas O
 une O
 viande B-neutral
 limousine I-neutral
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
 
 Trop B-neutral
 frais O
-. NO_TAG_FOUND
+. O
 
 Bref O
 , O
@@ -1495,7 +1493,7 @@ carte B-neutral
 revoir O
 en O
 profondeur O
-. NO_TAG_FOUND
+. O
 
 Cela O
 nous O
@@ -1512,7 +1510,7 @@ d'attendre O
 le O
 plat B-neutral
 principal O
-. NO_TAG_FOUND
+. O
 
 Nous O
 avons O
@@ -1527,7 +1525,7 @@ a O
 transmis B-neutral
 au O
 cuisinier O
-. NO_TAG_FOUND
+. O
 
 Petite O
 cuisine B-positive
@@ -1538,7 +1536,7 @@ et O
 pas O
 fait O
 maison O
-. NO_TAG_FOUND
+. O
 
 accueil B-positive
 sympathique O
@@ -1564,7 +1562,7 @@ petit O
 problème O
 rectifié B-neutral
 depuis O
-. NO_TAG_FOUND
+. O
 
 Un O
 excellent O
@@ -1578,7 +1576,7 @@ tout O
 a O
 été O
 nul O
-. NO_TAG_FOUND
+. O
 
 Et O
 la O
@@ -1621,15 +1619,15 @@ un O
 " O
 Ah O
 bon O
-... NO_TAG_FOUND
+... O
 " O
 sec O
 et O
 froid O
-. NO_TAG_FOUND
+. O
 
 Rideau O
-. NO_TAG_FOUND
+. O
 
 Petit O
 endroit B-positive
@@ -1646,7 +1644,7 @@ notre O
 balade O
 en O
 bateau O
-. NO_TAG_FOUND
+. O
 
 Je O
 ne O
@@ -1677,7 +1675,7 @@ savez B-neutral
 pas O
 où O
 aller O
-... NO_TAG_FOUND
+... O
 
 D'ailleurs O
 il O
@@ -1693,11 +1691,11 @@ restaurant B-neutral
 un O
 vendredi O
 soir O
-! NO_TAG_FOUND
+! O
 
 Aucun O
 professionnalisme O
-. NO_TAG_FOUND
+. O
 
 J'ai O
 retenté B-neutral
@@ -1718,13 +1716,13 @@ de O
 citron O
 à O
 l'intérieur O
-? NO_TAG_FOUND
-? NO_TAG_FOUND
+? O
+? O
 
 Tarifs B-neutral
 très O
 raisonnables O
-. NO_TAG_FOUND
+. O
 
 Dessert O
 : O
@@ -1732,7 +1730,7 @@ Chtiterolles B-neutral
 et O
 café O
 gourmand O
-. NO_TAG_FOUND
+. O
 
 Un O
 restaurant B-positive
@@ -1757,7 +1755,7 @@ la O
 formule B-neutral
 du I-neutral
 jour O
-. NO_TAG_FOUND
+. O
 
 En O
 plein O
@@ -1778,7 +1776,7 @@ le O
 midi O
 en O
 semaine O
-. NO_TAG_FOUND
+. O
 
 Si O
 réservation O
@@ -1791,7 +1789,7 @@ pour O
 éviter O
 des O
 surprises O
-. NO_TAG_FOUND
+. O
 
 On O
 a O
@@ -1802,7 +1800,7 @@ serveuse B-negative
 fumer I-negative
 en I-negative
 cuise O
-! NO_TAG_FOUND
+! O
 
 Les O
 desserts B-positive
@@ -1811,7 +1809,7 @@ un O
 peu O
 en O
 dessous O
-. NO_TAG_FOUND
+. O
 
 Longtemps B-neutral
 après O
@@ -1828,7 +1826,7 @@ viande O
 bleue O
 , O
 froide O
-. NO_TAG_FOUND
+. O
 
 Rien O
 à O
@@ -1844,7 +1842,7 @@ de O
 fermer O
 la O
 boutique O
-! NO_TAG_FOUND
+! O
 
 J'ai O
 mangé O
@@ -1856,7 +1854,7 @@ très O
 sec O
 pour O
 25euros O
-! NO_TAG_FOUND
+! O
 
 On O
 aurait O
@@ -1870,7 +1868,7 @@ vide O
 un O
 vendredi O
 soir O
-. NO_TAG_FOUND
+. O
 
 De O
 bons O
@@ -1882,7 +1880,7 @@ parler O
 pas O
 du O
 prix O
-... NO_TAG_FOUND
+... O
 
 propreté O
 limite O
@@ -1890,7 +1888,7 @@ limite O
 toilettes O
 à O
 éviter O
-. NO_TAG_FOUND
+. O
 
 Si O
 l'on O
@@ -1911,7 +1909,7 @@ originales O
 c'est O
 le O
 paradis O
-! NO_TAG_FOUND
+! O
 
 Nous O
 recommandons O
@@ -1926,7 +1924,7 @@ le O
 quartier O
 du O
 Panier O
-. NO_TAG_FOUND
+. O
 
 Les O
 plats B-positive
@@ -1937,7 +1935,7 @@ choisis B-neutral
 étaient O
 très O
 copieux O
-. NO_TAG_FOUND
+. O
 
 Très O
 bel O
@@ -1976,7 +1974,7 @@ très O
 prétention O
 en O
 présentation O
-... NO_TAG_FOUND
+... O
 
 Il O
 m'a O
@@ -1988,12 +1986,12 @@ de I-neutral
 travailler I-neutral
 un O
 dimanche O
-. NO_TAG_FOUND
+. O
 
 C'est O
 une O
 honte O
-! NO_TAG_FOUND
+! O
 
 J'ai O
 soulevé B-neutral
@@ -2021,7 +2019,7 @@ dire O
 pire O
 que O
 ça O
-. NO_TAG_FOUND
+. O
 
 Par O
 contre O
@@ -2029,7 +2027,7 @@ les O
 plats B-neutral
 : O
 attention O
-! NO_TAG_FOUND
+! O
 
 Des O
 hamburgers B-neutral
@@ -2046,7 +2044,7 @@ une O
 escalope B-negative
 milanaise I-negative
 exceptionnelle O
-. NO_TAG_FOUND
+. O
 
 Le O
 dessert B-positive
@@ -2054,14 +2052,14 @@ salade O
 fruit O
 , O
 correct O
-. NO_TAG_FOUND
+. O
 
 Service B-positive
 tres O
 long O
 et O
 glacial O
-. NO_TAG_FOUND
+. O
 
 Accueil B-negative
 souriant O
@@ -2085,7 +2083,7 @@ volonté O
 c'est O
 beaucoup O
 dire O
-. NO_TAG_FOUND
+. O
 
 Nous O
 nous O
@@ -2107,14 +2105,14 @@ certains O
 plats B-neutral
 étaient O
 fades O
-. NO_TAG_FOUND
+. O
 
 Aucune O
 explication O
 sur O
 les O
 plats O
-. NO_TAG_FOUND
+. O
 
 Après O
 dégustation B-neutral
@@ -2130,11 +2128,11 @@ pizza B-neutral
 de O
 mon O
 ami O
-. NO_TAG_FOUND
+. O
 
 a O
 proscrire O
-! NO_TAG_FOUND
+! O
 
 Nous O
 avons O
@@ -2155,7 +2153,7 @@ dit O
 qu'il O
 ferait B-neutral
 remonter O
-. NO_TAG_FOUND
+. O
 
 Juste O
 un O
@@ -2173,7 +2171,7 @@ au O
 avis O
 de O
 tripadvisor O
-. NO_TAG_FOUND
+. O
 
 Un O
 peu O
@@ -2194,11 +2192,11 @@ et O
 qualité B-neutral
 obligent I-neutral
 ) O
-. NO_TAG_FOUND
+. O
 
 Attente B-neutral
 interminable O
-! NO_TAG_FOUND
+! O
 
 Pour O
 bien O
@@ -2220,7 +2218,7 @@ honte O
 la O
 cuisine B-neutral
 locale O
-. NO_TAG_FOUND
+. O
 
 Le O
 personnel B-positive
@@ -2232,7 +2230,7 @@ patient B-neutral
 courtois O
 et O
 discret O
-... NO_TAG_FOUND
+... O
 
 2 O
 heures O
@@ -2244,7 +2242,7 @@ service B-negative
 et O
 patronne B-negative
 execrable O
-! NO_TAG_FOUND
+! O
 
 Etait B-neutral
 ce O
@@ -2255,14 +2253,14 @@ saison O
 qui O
 voulait O
 cela O
-? NO_TAG_FOUND
+? O
 
 L O
 ' O
 accueil B-positive
 est O
 sympathique O
-. NO_TAG_FOUND
+. O
 
 Dommage O
 , O
@@ -2286,7 +2284,7 @@ l O
 ' O
 endroit B-positive
 idéal O
-. NO_TAG_FOUND
+. O
 
 Si O
 vous O
@@ -2298,7 +2296,7 @@ temps O
 demandez O
 de O
 l'emporter O
-... NO_TAG_FOUND
+... O
 
 Chantilly B-neutral
 premier O
@@ -2307,13 +2305,13 @@ prix O
 Quelle O
 bonne O
 surprise O
-! NO_TAG_FOUND
+! O
 
 Service B-negative
 attentif I-negative
 et I-negative
 sympathique O
-. NO_TAG_FOUND
+. O
 
 On O
 attire B-neutral
@@ -2331,7 +2329,7 @@ passage O
 dans O
 le O
 restaurant O
-. NO_TAG_FOUND
+. O
 
 Côté O
 cuisine B-positive
@@ -2346,7 +2344,7 @@ de O
 découverte O
 ou O
 d'audace O
-... NO_TAG_FOUND
+... O
 
 Il O
 dirige B-neutral
@@ -2356,7 +2354,7 @@ aux O
 claquements B-neutral
 de O
 doigts O
-... NO_TAG_FOUND
+... O
 
 Des O
 plats B-positive
@@ -2367,7 +2365,7 @@ réchauffés O
 au O
 micro O
 ondes O
-! NO_TAG_FOUND
+! O
 
 Test B-neutral
 du O
@@ -2416,7 +2414,7 @@ les O
 produits B-positive
 sont O
 quelconque O
-. NO_TAG_FOUND
+. O
 
 situé O
 dans O
@@ -2441,13 +2439,13 @@ journée O
 passée O
 à O
 Colmar O
-. NO_TAG_FOUND
+. O
 
 Le O
 service B-positive
 s'est O
 dégradé O
-. NO_TAG_FOUND
+. O
 
 On O
 voit O
@@ -2464,7 +2462,7 @@ dans O
 ce O
 lieu B-positive
 magique O
-. NO_TAG_FOUND
+. O
 
 Le O
 confit B-neutral
@@ -2489,7 +2487,7 @@ suit B-neutral
 pas O
 non O
 plus O
-. NO_TAG_FOUND
+. O
 
 Quasi B-neutral
 gastronomique O
@@ -2531,8 +2529,8 @@ top O
 , O
 je O
 recommande O
-! NO_TAG_FOUND
-! NO_TAG_FOUND
+! O
+! O
 
 Une O
 ambiance B-positive
@@ -2557,7 +2555,7 @@ panel O
 de O
 la O
 salle O
-. NO_TAG_FOUND
+. O
 
 Un O
 beau O
@@ -2580,7 +2578,7 @@ des O
 grands O
 et O
 petits O
-. NO_TAG_FOUND
+. O
 
 Nous O
 ne O
@@ -2622,7 +2620,7 @@ par O
 dessus O
 le O
 marché O
-! NO_TAG_FOUND
+! O
 
 très O
 bien O
@@ -2635,7 +2633,7 @@ amis O
 un O
 samedi O
 soir O
-. NO_TAG_FOUND
+. O
 
 Nous O
 avons O
@@ -2669,7 +2667,7 @@ et O
 le O
 fait O
 maison O
-. NO_TAG_FOUND
+. O
 
 Je O
 suis O
@@ -2686,7 +2684,7 @@ pour O
 diner O
 entre O
 amis O
-. NO_TAG_FOUND
+. O
 
 La O
 choucroute B-neutral
@@ -2703,7 +2701,7 @@ mange O
 sans O
 réel O
 plaisir O
-... NO_TAG_FOUND
+... O
 c'est O
 dommage O
 avec O
@@ -2715,7 +2713,7 @@ ne O
 pas O
 faire O
 mieux O
-. NO_TAG_FOUND
+. O
 
 toujours O
 très O
@@ -2732,14 +2730,14 @@ verra B-neutral
 pas O
 autre O
 part O
-. NO_TAG_FOUND
+. O
 
 Le O
 bressane B-neutral
 est O
 ma O
 préférée O
-. NO_TAG_FOUND
+. O
 
 Bar B-positive
 tapas B-positive
@@ -2751,7 +2749,7 @@ changeante I-positive
 et O
 parfois O
 approximative O
-. NO_TAG_FOUND
+. O
 
 Un O
 oasis B-neutral
@@ -2771,12 +2769,12 @@ résonne B-neutral
 tout O
 est O
 vide O
-! NO_TAG_FOUND
+! O
 
 Très O
 bon O
 bistrot O
-. NO_TAG_FOUND
+. O
 
 De O
 plus O
@@ -2791,7 +2789,7 @@ pour I-neutral
 ce O
 restaurant B-neutral
 parisien O
-. NO_TAG_FOUND
+. O
 
 L O
 ' O
@@ -2803,7 +2801,7 @@ le O
 décor B-positive
 intime O
 plait O
-. NO_TAG_FOUND
+. O
 
 Nous O
 sommes O
@@ -2819,11 +2817,11 @@ y O
 retournerons O
 sans O
 souci O
-! NO_TAG_FOUND
+! O
 
 A O
 recommander O
-! NO_TAG_FOUND
+! O
 
 Terrasse B-negative
 ensoleillée O
@@ -2840,7 +2838,7 @@ s O
 annonçait B-neutral
 plutôt O
 bien O
-... NO_TAG_FOUND
+... O
 
 Patron B-negative
 venu O
@@ -2877,7 +2875,7 @@ restaurants O
 voisins O
 étaient O
 occupées B-neutral
-... NO_TAG_FOUND
+... O
 Premiers B-neutral
 arrivés O
 , O
@@ -2890,7 +2888,7 @@ l'addition O
 , O
 après O
 appel O
-. NO_TAG_FOUND
+. O
 
 Évitez B-neutral
 d'y O
@@ -2904,7 +2902,7 @@ personnes O
 c'est O
 déjà O
 beaucoup O
-. NO_TAG_FOUND
+. O
 
 Nous O
 étions O
@@ -2931,7 +2929,7 @@ préparés O
 particulièrement O
 les O
 entrées O
-. NO_TAG_FOUND
+. O
 
 Je O
 suis O
@@ -2966,7 +2964,7 @@ scandaleux O
 merite B-neutral
 d'être O
 dénoncé O
-. NO_TAG_FOUND
+. O
 
 Les O
 nems O
@@ -3000,7 +2998,7 @@ baigne O
 dans O
 le O
 gras O
-. NO_TAG_FOUND
+. O
 
 Nous O
 avons O
@@ -3011,13 +3009,13 @@ culinaire B-neutral
 hors O
 du O
 commun O
-. NO_TAG_FOUND
+. O
 
 A O
 recommander O
 1000 B-neutral
 fois O
-! NO_TAG_FOUND
+! O
 
 Lors B-neutral
 du O
@@ -3033,7 +3031,7 @@ hasard O
 sur O
 cette O
 placette O
-. NO_TAG_FOUND
+. O
 
 Nous O
 nous O
@@ -3056,11 +3054,11 @@ de O
 nous O
 laisser O
 partir O
-. NO_TAG_FOUND
+. O
 
 Quel O
 gâchis O
-. NO_TAG_FOUND
+. O
 
 Pas O
 besoin O
@@ -3089,7 +3087,7 @@ des O
 prix O
 plutôt O
 élevés O
-. NO_TAG_FOUND
+. O
 
 Les O
 anciens O
@@ -3147,7 +3145,7 @@ avant O
 d'avoir O
 l'entrée O
 ) O
-. NO_TAG_FOUND
+. O
 
 Choisissez B-neutral
 une O
@@ -3172,7 +3170,7 @@ l'impression O
 d'embêter B-neutral
 le O
 personnel O
-. NO_TAG_FOUND
+. O
 
 l O
 ' O
@@ -3201,7 +3199,7 @@ gens O
 la O
 salle O
 , O
-... NO_TAG_FOUND
+... O
 il O
 manque O
 un O
@@ -3210,7 +3208,7 @@ quelque O
 chose O
 pour O
 s'enthousiasmer O
-. NO_TAG_FOUND
+. O
 
 La O
 tarte B-negative
@@ -3230,13 +3228,13 @@ n'ai O
 pas O
 été O
 emballé O
-. NO_TAG_FOUND
+. O
 
 Les O
 plats B-positive
 arrivent O
 rapidement O
-. NO_TAG_FOUND
+. O
 
 J'adore B-neutral
 ces O
@@ -3275,7 +3273,7 @@ vous O
 pour O
 vous O
 servir O
-. NO_TAG_FOUND
+. O
 
 Endroit B-negative
 sympa O
@@ -3283,7 +3281,7 @@ en O
 plein O
 centre O
 touristique O
-. NO_TAG_FOUND
+. O
 
 Le O
 plat B-neutral
@@ -3323,7 +3321,7 @@ pâtes B-negative
 desséchées I-negative
 et I-negative
 froides O
-. NO_TAG_FOUND
+. O
 
 Mais O
 comment O
@@ -3351,7 +3349,7 @@ de O
 métro O
 ou O
 promocash O
-. NO_TAG_FOUND
+. O
 
 Et O
 faites O
@@ -3364,16 +3362,16 @@ cassoulet B-positive
 top O
 et O
 généreux O
-. NO_TAG_FOUND
+. O
 
 Vin B-negative
 au I-negative
 verre I-negative
 ( O
 heureusement O
-! NO_TAG_FOUND
+! O
 ) O
-. NO_TAG_FOUND
+. O
 
 Cet O
 endroit B-positive
@@ -3390,12 +3388,12 @@ place O
 et O
 du O
 personnel O
-. NO_TAG_FOUND
+. O
 
 Vraiment O
 très O
 dépaysant O
-! NO_TAG_FOUND
+! O
 
 Les O
 vins B-positive
@@ -3422,7 +3420,7 @@ le O
 personnel B-positive
 est O
 sympathique O
-. NO_TAG_FOUND
+. O
 
 La O
 déco B-positive
@@ -3444,7 +3442,7 @@ rapide O
 et O
 très O
 souriante O
-. NO_TAG_FOUND
+. O
 
 De O
 l O
@@ -3472,7 +3470,7 @@ qui O
 passent B-neutral
 par O
 là O
-. NO_TAG_FOUND
+. O
 
 bon O
 accueil B-positive
@@ -3481,7 +3479,7 @@ La O
 tartiflette B-neutral
 était O
 correcte O
-. NO_TAG_FOUND
+. O
 
 Ici O
 , O
@@ -3491,7 +3489,7 @@ française I-positive
 est O
 à O
 l'honneur O
-. NO_TAG_FOUND
+. O
 
 Une O
 honte O
@@ -3514,7 +3512,7 @@ pour O
 , O
 super O
 bon O
-. NO_TAG_FOUND
+. O
 
 Les O
 prix O
@@ -3529,7 +3527,7 @@ qu'on O
 nous O
 a O
 proposé O
-. NO_TAG_FOUND
+. O
 
 Le O
 maître O
@@ -3537,14 +3535,14 @@ d'hôtel B-neutral
 méprisant O
 et O
 grossier O
-. NO_TAG_FOUND
+. O
 
 Un O
 rapport O
 qualité O
 prix O
 correct O
-. NO_TAG_FOUND
+. O
 
 En O
 raison O
@@ -3562,7 +3560,7 @@ dans O
 la O
 salle O
 climatisée O
-. NO_TAG_FOUND
+. O
 
 Accueil B-negative
 chaleureux O
@@ -3599,7 +3597,7 @@ qualité O
 et O
 prix O
 raisonnable O
-. NO_TAG_FOUND
+. O
 
 Et O
 à O
@@ -3628,7 +3626,7 @@ et O
 service B-neutral
 très O
 sympathique O
-. NO_TAG_FOUND
+. O
 
 Un O
 cadre B-positive
@@ -3639,7 +3637,7 @@ très O
 authentique B-neutral
 et O
 étudié B-neutral
-... NO_TAG_FOUND
+... O
 un O
 style O
 américain O
@@ -3650,13 +3648,13 @@ en O
 simplicité B-neutral
 et O
 goût O
-. NO_TAG_FOUND
+. O
 
 La O
 nourriture B-positive
 , O
 intolérable O
-! NO_TAG_FOUND
+! O
 
 Une O
 cuisine B-positive
@@ -3667,7 +3665,7 @@ avec O
 de O
 bons O
 produits O
-. NO_TAG_FOUND
+. O
 
 Une O
 table O
@@ -3684,7 +3682,7 @@ tables O
 changent B-neutral
 très O
 vite O
-? NO_TAG_FOUND
+? O
 
 Menus B-neutral
 à I-neutral
@@ -3698,5 +3696,5 @@ avec O
 des O
 bons O
 conseils O
-. NO_TAG_FOUND
+. O
 
