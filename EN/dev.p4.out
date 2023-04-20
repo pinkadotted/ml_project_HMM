@@ -35,8 +35,8 @@ day I-NP
 __AND__ O
 it B-NP
 just B-ADVP
-keeps B-VP
-getting I-VP
+keeps I-ADVP
+getting B-VP
 better B-ADJP
 !!! NO_TAG_FOUND
 Thank B-INTJ
@@ -61,7 +61,7 @@ love B-VP
 you B-NP
 
 @iians NO_TAG_FOUND
-Id I-INTJ
+Id I-CONJP
 love B-VP
 to I-VP
 see I-VP
@@ -202,8 +202,8 @@ for B-PP
 dis B-NP
 weekend B-NP
 
-On B-PP
-Thanksgiving B-NP
+On B-ADVP
+Thanksgiving B-ADVP
 after B-PP
 you B-NP
 done B-VP
@@ -222,7 +222,7 @@ Got B-VP
 another B-NP
 two I-NP
 box B-CONJP
-of B-PP
+of I-CONJP
 chocolate I-NP
 from B-PP
 sister I-NP
@@ -237,7 +237,7 @@ gave B-VP
 you B-NP
 a B-NP
 bar B-CONJP
-of B-PP
+of I-CONJP
 chocolate I-NP
 . NO_TAG_FOUND
 . NO_TAG_FOUND
@@ -245,7 +245,7 @@ Everything B-NP
 pratically B-CONJP
 remind B-CONJP
 me B-NP
-of B-PP
+of I-CONJP
 you B-NP
 ? NO_TAG_FOUND
 
@@ -296,13 +296,13 @@ here B-ADVP
 !!! NO_TAG_FOUND
 
 The B-NP
-guys I-NP
-are I-NP
+guys B-NP
+are B-VP
 cooking I-NP
-about B-NP
-a B-ADVP
+about B-PP
+a B-NP
 dozen B-ADVP
-pizzas B-ADJP
+pizzas I-ADVP
 at B-PP
 our B-NP
 house I-NP
@@ -311,10 +311,10 @@ the B-NP
 tailgate I-NP
 tonight B-NP
 . NO_TAG_FOUND
-Nonetheless B-PRT
-it B-ADVP
+Nonetheless B-ADVP
+it B-NP
 smells B-ADVP
-fresh B-ADJP
+fresh I-ADVP
 in B-PP
 this B-NP
 place I-NP
@@ -338,12 +338,12 @@ friday B-NP
 ! NO_TAG_FOUND
 http://is.gd/ffDb9 O
 
-I B-ADJP
-kept B-ADJP
-telling B-ADJP
-niggers B-ADJP
-it'd B-ADJP
-happen B-ADJP
+I B-NP
+kept B-VP
+telling B-PP
+niggers I-PP
+it'd I-PP
+happen B-NP
 . NO_TAG_FOUND
 Come B-VP
 Thursday B-NP
@@ -572,7 +572,7 @@ know B-VP
 
 RT O
 @PeepsMagoo NO_TAG_FOUND
-: O
+: I-INTJ
 Please B-VP
 help I-VP
 me B-NP
@@ -580,16 +580,16 @@ save I-NP
 Sunshine I-NP
 . NO_TAG_FOUND
 She B-NP
-is B-VP
-scheduled B-ADJP
-to B-VP
-be I-VP
+is O
+scheduled O
+to I-NP
+be B-VP
 put B-VP
-down B-ADVP
-at B-NP
-a B-ADVP
+down B-PRT
+at B-PP
+a B-NP
 Camarillo B-ADVP
-shelter B-ADJP
+shelter I-ADVP
 on B-PP
 Jan B-NP
 6 B-NP
@@ -597,10 +597,10 @@ http://fragurl.com/5P O
 
 I B-NP
 have B-VP
-a B-NP
-strong O
-hunch O
-Adam I-INTJ
+a B-ADJP
+strong I-ADJP
+hunch I-ADJP
+Adam I-ADJP
 will O
 be B-VP
 a I-NP
@@ -637,13 +637,13 @@ EVER I-VP
 
 A B-ADJP
 TRUE B-ADJP
-friend B-ADJP
-walks B-ADJP
-in B-ADJP
-when B-ADJP
-everybody B-ADJP
-else I-ADJP
-walks I-ADJP
+friend I-NP
+walks B-NP
+in B-PP
+when B-ADVP
+everybody B-VP
+else I-VP
+walks B-PP
 out B-PP
 ! NO_TAG_FOUND
 
@@ -680,7 +680,7 @@ leave I-VP
 it B-NP
 alone B-CONJP
 , O
-and O
+and I-PP
 do B-VP
 n't I-VP
 regret B-CONJP
@@ -722,7 +722,7 @@ next B-NP
 to B-VP
 me B-NP
 spilling O
-over B-PP
+over B-PRT
 to B-VP
 my B-NP
 chair B-ADVP
@@ -747,13 +747,13 @@ The B-NP
 day I-NP
 @owlcity NO_TAG_FOUND
 went B-VP
-on B-PP
+on B-ADJP
 an B-NP
-Emporer I-NP
+Emporer B-VP
 's B-VP
-New B-ADVP
+New B-NP
 Groove B-ADVP
-rampage B-ADJP
+rampage I-ADVP
 through B-PP
 twitter B-NP
 . NO_TAG_FOUND
@@ -819,7 +819,7 @@ tonight B-NP
 @YoDayDay NO_TAG_FOUND
 Nope B-INTJ
 ! NO_TAG_FOUND
-*lil B-INTJ
+*lil I-INTJ
 kid B-INTJ
 voice* I-INTJ
 im B-NP
@@ -850,20 +850,20 @@ too B-ADJP
 
 " O
 @DJDROC NO_TAG_FOUND
-: O
-#beforeserato B-NP
-djs B-PP
-actually B-ADJP
+: B-ADJP
+#beforeserato B-ADJP
+djs B-INTJ
+actually B-ADVP
 used B-VP
-headphones I-VP
+headphones B-ADVP
 believe B-VP
-it B-NP
+it O
 or O
-not O
-" O
+not I-NP
+" I-NP
 --- NO_TAG_FOUND
-except I-INTJ
-majestic I-INTJ
+except B-ADJP
+majestic I-ADJP
 and O
 me B-NP
 when B-ADVP
@@ -875,7 +875,7 @@ haha B-INTJ
 
 RT O
 @robmoysey NO_TAG_FOUND
-Eyeopener I-NP
+Eyeopener B-NP
 vs I-NP
 . NO_TAG_FOUND
 Ryerson B-VP
@@ -891,10 +891,10 @@ know I-VP
 where B-ADVP
 to B-VP
 get I-VP
-cheap B-ADJP
-brooms I-ADJP
+cheap I-VP
+brooms B-ADJP
 ? NO_TAG_FOUND
-#Ryerson B-SBAR
+#Ryerson B-ADJP
 @RUQuidditch NO_TAG_FOUND
 #Rams O
 
@@ -955,8 +955,8 @@ This B-NP
 Week I-NP
 : O
 The B-NP
-Drama O
-Edition O
+Drama B-VP
+Edition B-ADJP
 http://dlvr.it/5RfHy O
 
 I B-NP
@@ -1012,7 +1012,7 @@ comple O
 ... NO_TAG_FOUND
 
 @Elinor_Althani NO_TAG_FOUND
-ahhhh B-ADVP
+ahhhh I-ADJP
 reading B-VP
 , O
 still B-ADVP
@@ -1035,26 +1035,26 @@ inshallah B-ADJP
 :) B-INTJ
 
 @justinbieber NO_TAG_FOUND
-I B-NP
-have B-VP
-this B-NP
-on B-PP
-my B-NP
-computer B-VP
-, O
-it B-NP
-gives B-VP
-me B-NP
-days I-NP
-, I-NP
-hours I-NP
-, O
+I B-SBAR
+have B-SBAR
+this B-SBAR
+on B-SBAR
+my B-SBAR
+computer B-SBAR
+, B-SBAR
+it B-SBAR
+gives B-SBAR
+me B-SBAR
+days B-SBAR
+, B-SBAR
+hours B-SBAR
+, B-SBAR
 mintues B-SBAR
-__AND__ O
-seconds B-INTJ
-till B-PP
-Feb B-NP
-9th B-NP
+__AND__ B-SBAR
+seconds B-SBAR
+till B-SBAR
+Feb B-SBAR
+9th B-SBAR
 ! NO_TAG_FOUND
 #purpleglasses B-INTJ
 http://twitpic.com/3nouem I-INTJ
@@ -1135,16 +1135,16 @@ Fayette B-ADVP
 County I-ADVP
 : O
 " O
-Ever B-VP
-wonder B-ADJP
-if B-SBAR
+Ever B-ADVP
+wonder B-SBAR
+if I-SBAR
 there B-NP
 is B-VP
 life B-NP
 after B-PP
 death B-ADVP
 ? NO_TAG_FOUND
-Touch B-INTJ
+Touch B-SBAR
 my B-NP
 truck I-NP
 and O
@@ -1275,8 +1275,8 @@ offensive B-NP
 and O
 would B-VP
 be I-VP
-difficult I-VP
-to I-VP
+difficult B-PP
+to B-VP
 explain B-PRT
 . NO_TAG_FOUND
 When B-ADVP
@@ -1343,7 +1343,7 @@ my B-NP
 own I-NP
 tonight B-NP
 but O
-managed B-INTJ
+managed B-SBAR
 a B-NP
 30 I-NP
 min B-VP
@@ -1354,10 +1354,10 @@ of B-PP
 weights B-ADVP
 . NO_TAG_FOUND
 Catching B-VP
-up I-NP
+up B-PRT
 on B-PP
-ufc B-ADVP
-now I-ADVP
+ufc B-NP
+now B-NP
 
 @paulwalk NO_TAG_FOUND
 It B-NP
@@ -1438,12 +1438,12 @@ time B-NP
 ... NO_TAG_FOUND
 ive B-NP
 been B-VP
-to I-VP
-13 B-ADJP
-30stm I-ADJP
-concerts B-ADVP
-now I-ADVP
-and I-ADVP
+to B-VP
+13 B-PP
+30stm I-PP
+concerts I-PP
+now B-NP
+and O
 you B-NP
 never B-ADVP
 got B-VP
@@ -1501,11 +1501,11 @@ all B-NP
 week I-NP
 , O
 do B-VP
-n't I-VP
-really B-ADVP
+n't O
+really B-VP
 have B-VP
-a B-NP
-favourite B-VP
+a B-ADJP
+favourite I-ADJP
 . NO_TAG_FOUND
 It B-NP
 's B-VP
