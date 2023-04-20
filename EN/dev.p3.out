@@ -1,7 +1,7 @@
 NO B-ADJP
 Saints B-ADJP
 R B-ADJP
-. NO_TAG_FOUND
+. B-ADJP
 Buch B-ADJP
 might B-VP
 come B-VP
@@ -12,7 +12,7 @@ vs I-NP
 Seahawks B-PP
 on B-PP
 Sunday B-NP
-?? NO_TAG_FOUND
+?? O
 
 Polling B-NP
 ends B-VP
@@ -35,14 +35,14 @@ day I-NP
 __AND__ O
 it B-NP
 just B-ADVP
-keeps B-VP
-getting I-VP
+keeps I-ADVP
+getting B-VP
 better B-ADJP
-!!! NO_TAG_FOUND
+!!! O
 Thank B-INTJ
 You B-NP
 Lord O
-! NO_TAG_FOUND
+! O
 
 man B-INTJ
 my B-NP
@@ -60,8 +60,8 @@ still B-ADVP
 love B-VP
 you B-NP
 
-@iians NO_TAG_FOUND
-Id I-INTJ
+@iians B-CONJP
+Id I-CONJP
 love B-VP
 to I-VP
 see I-VP
@@ -69,7 +69,7 @@ IDWT B-ADVP
 live B-ADJP
 from B-PP
 CES B-ADVP
-. NO_TAG_FOUND
+. O
 And O
 one B-NP
 day I-NP
@@ -80,9 +80,9 @@ go B-VP
 to B-PP
 ces I-PP
 myself B-NP
-. NO_TAG_FOUND
+. O
 
-@Team_Panic NO_TAG_FOUND
+@Team_Panic O
 omg B-INTJ
 , O
 i B-NP
@@ -94,7 +94,7 @@ to B-VP
 freak I-VP
 people B-NP
 out B-PRT
-. NO_TAG_FOUND
+. O
 it B-NP
 's B-VP
 so B-ADJP
@@ -104,9 +104,9 @@ they B-NP
 think B-VP
 you'r B-NP
 serious I-NP
-. NO_TAG_FOUND
+. O
 noobs O
-. NO_TAG_FOUND
+. O
 
 fckn B-INTJ
 emily I-INTJ
@@ -117,10 +117,10 @@ bring I-VP
 my B-NP
 cookies B-VP
 today B-NP
-!! NO_TAG_FOUND
+!! I-NP
 lil I-NP
 brat B-NP
-. NO_TAG_FOUND
+. O
 
 Amazon B-INTJ
 U.K. B-INTJ
@@ -145,16 +145,16 @@ Z I-ADVP
 earlier I-ADVP
 in B-PP
 Lo B-ADVP
-... NO_TAG_FOUND
+... O
 http://bit.ly/bsyz9H O
 
 Lmao B-SBAR
-.. NO_TAG_FOUND
+.. B-SBAR
 They B-SBAR
 #Hurrt B-SBAR
-! NO_TAG_FOUND
+! B-SBAR
 RT B-SBAR
-@_sofucKENNrude NO_TAG_FOUND
+@_sofucKENNrude B-SBAR
 y B-ADVP
 every B-NP
 nigga B-VP
@@ -163,7 +163,7 @@ grow B-PRT
 they B-NP
 hair I-NP
 out B-PP
-. NO_TAG_FOUND
+. O
 should B-VP
 of B-PP
 did B-VP
@@ -172,14 +172,14 @@ a B-NP
 long I-NP
 time I-NP
 ago B-ADVP
-. NO_TAG_FOUND
--_- NO_TAG_FOUND
+. B-INTJ
+-_- I-INTJ
 skimp B-NP
 ass I-NP
 braids B-NP
-. NO_TAG_FOUND
+. O
 
-@ NO_TAG_FOUND
+@ O
 home B-NP
 chilling B-VP
 guess B-VP
@@ -202,8 +202,8 @@ for B-PP
 dis B-NP
 weekend B-NP
 
-On B-PP
-Thanksgiving B-NP
+On B-ADVP
+Thanksgiving B-ADVP
 after B-PP
 you B-NP
 done B-VP
@@ -222,12 +222,12 @@ Got B-VP
 another B-NP
 two I-NP
 box B-CONJP
-of B-PP
+of I-CONJP
 chocolate I-NP
 from B-PP
 sister I-NP
-. NO_TAG_FOUND
-. NO_TAG_FOUND
+. O
+. O
 Rewind B-CONJP
 the B-NP
 1st B-NP
@@ -237,17 +237,17 @@ gave B-VP
 you B-NP
 a B-NP
 bar B-CONJP
-of B-PP
+of I-CONJP
 chocolate I-NP
-. NO_TAG_FOUND
-. NO_TAG_FOUND
+. O
+. O
 Everything B-NP
 pratically B-CONJP
 remind B-CONJP
 me B-NP
-of B-PP
+of I-CONJP
 you B-NP
-? NO_TAG_FOUND
+? O
 
 tomorrow B-NP
 no B-NP
@@ -257,18 +257,18 @@ me B-NP
 but O
 I B-NP
 'm B-VP
-so B-ADJP
-anxious I-ADJP
-beacuse I-ADJP
-of B-PP
+so B-NP
+anxious B-PP
+beacuse I-PP
+of I-PP
 tomorrow B-NP
 omg O
 :/ O
 
 PREACH O
-!! NO_TAG_FOUND
+!! O
 RT O
-@DJRyan1der NO_TAG_FOUND
+@DJRyan1der B-INTJ
 : I-INTJ
 These B-NP
 ppl B-NP
@@ -289,20 +289,20 @@ deal B-ADVP
 wit B-PP
 their B-NP
 bullshit B-ADVP
-!! NO_TAG_FOUND
+!! O
 Fukk B-ADJP
 outta B-PP
 here B-ADVP
-!!! NO_TAG_FOUND
+!!! O
 
 The B-NP
-guys I-NP
-are I-NP
+guys B-NP
+are B-VP
 cooking I-NP
-about B-NP
-a B-ADVP
+about B-PP
+a B-NP
 dozen B-ADVP
-pizzas B-ADJP
+pizzas I-ADVP
 at B-PP
 our B-NP
 house I-NP
@@ -310,20 +310,20 @@ for B-PP
 the B-NP
 tailgate I-NP
 tonight B-NP
-. NO_TAG_FOUND
-Nonetheless B-PRT
-it B-ADVP
+. O
+Nonetheless B-ADVP
+it B-NP
 smells B-ADVP
-fresh B-ADJP
+fresh I-ADVP
 in B-PP
 this B-NP
 place I-NP
-. NO_TAG_FOUND
+. O
 
 Think B-VP
 I'ma I-VP
 make B-VP
-@GrownWomanStuff NO_TAG_FOUND
+@GrownWomanStuff B-NP
 have B-VP
 a B-ADJP
 shoegasm I-ADJP
@@ -335,16 +335,16 @@ better I-ADJP
 than B-PP
 cocktail I-PP
 friday B-NP
-! NO_TAG_FOUND
+! O
 http://is.gd/ffDb9 O
 
-I B-ADJP
-kept B-ADJP
-telling B-ADJP
-niggers B-ADJP
-it'd B-ADJP
-happen B-ADJP
-. NO_TAG_FOUND
+I B-NP
+kept B-VP
+telling B-PP
+niggers I-PP
+it'd I-PP
+happen B-NP
+. O
 Come B-VP
 Thursday B-NP
 im B-NP
@@ -356,19 +356,19 @@ niggers B-SBAR
 3times I-SBAR
 my B-NP
 age B-NP
-. NO_TAG_FOUND
-. NO_TAG_FOUND
-. NO_TAG_FOUND
+. O
+. O
+. O
 at B-PP
 the B-NP
 tender B-VP
 age B-NP
 of I-NP
 17 I-NP
-!! NO_TAG_FOUND
+!! O
 Im B-NP
 pleased O
-. NO_TAG_FOUND
+. O
 
 Shower B-ADJP
 time I-NP
@@ -388,7 +388,7 @@ hot B-ADJP
 water B-NP
 uggghh O
 
-@hime8644 NO_TAG_FOUND
+@hime8644 B-INTJ
 LOL B-INTJ
 theres I-INTJ
 always B-NP
@@ -403,7 +403,7 @@ like B-PP
 this B-NP
 one I-NP
 XD B-INTJ
---- NO_TAG_FOUND
+--- I-INTJ
 &gt; I-INTJ
 http://www.youtube.com/watch?v=8zJKZJ7TGlU I-INTJ
 OMG B-INTJ
@@ -419,7 +419,7 @@ could B-VP
 n't I-VP
 be I-VP
 happier B-PRT
-. NO_TAG_FOUND
+. O
 Ending B-SBAR
 a B-NP
 crappy B-VP
@@ -431,7 +431,7 @@ note B-PP
 is B-VP
 always B-ADVP
 nice B-NP
-. NO_TAG_FOUND
+. O
 
 LADY B-ADVP
 GAGA I-ADVP
@@ -466,19 +466,19 @@ religion B-NP
 is B-VP
 so B-ADJP
 mar I-ADJP
-... NO_TAG_FOUND
+... O
 http://bit.ly/cBvt1u O
 
-@ashhleybrookee NO_TAG_FOUND
+@ashhleybrookee B-CONJP
 it B-NP
 may B-VP
 be I-VP
 nasty I-ADJP
 but O
-... NO_TAG_FOUND
+... O
 it B-NP
 works B-VP
-. NO_TAG_FOUND
+. O
 
 So O
 this B-NP
@@ -499,7 +499,7 @@ to I-VP
 lhs O
 
 RT O
-@DamnTeenQuotes NO_TAG_FOUND
+@DamnTeenQuotes B-INTJ
 : O
 I B-NP
 remember B-VP
@@ -523,7 +523,7 @@ and I-VP
 Josh O
 was I-NP
 fat I-NP
-. NO_TAG_FOUND
+. O
 #damnteenquotes O
 
 [ O
@@ -549,7 +549,7 @@ HDCP B-VP
 copy B-NP
 protection B-NP
 scheme B-PRT
-... NO_TAG_FOUND
+... O
 http://bit.ly/blWf0e O
 
 Friday I-NP
@@ -568,28 +568,28 @@ big B-NP
 , O
 you B-NP
 know B-VP
-? NO_TAG_FOUND
+? O
 
 RT O
-@PeepsMagoo NO_TAG_FOUND
-: O
+@PeepsMagoo B-INTJ
+: I-INTJ
 Please B-VP
 help I-VP
 me B-NP
 save I-NP
 Sunshine I-NP
-. NO_TAG_FOUND
+. O
 She B-NP
-is B-VP
-scheduled B-ADJP
-to B-VP
-be I-VP
+is O
+scheduled O
+to I-NP
+be B-VP
 put B-VP
-down B-ADVP
-at B-NP
-a B-ADVP
+down B-PRT
+at B-PP
+a B-NP
 Camarillo B-ADVP
-shelter B-ADJP
+shelter I-ADVP
 on B-PP
 Jan B-NP
 6 B-NP
@@ -597,10 +597,10 @@ http://fragurl.com/5P O
 
 I B-NP
 have B-VP
-a B-NP
-strong O
-hunch O
-Adam I-INTJ
+a B-ADJP
+strong I-ADJP
+hunch I-ADJP
+Adam I-ADJP
 will O
 be B-VP
 a I-NP
@@ -608,9 +608,9 @@ story B-PP
 on B-PP
 TMZ I-PP
 tonight B-NP
-. NO_TAG_FOUND
+. O
 Gulp O
-. NO_TAG_FOUND
+. O
 
 WIN B-VP
 FREE B-ADJP
@@ -618,10 +618,10 @@ PAMPERS B-CONJP
 FOR B-PP
 A B-NP
 YEAR I-NP
-!!! NO_TAG_FOUND
+!!! O
 And O
-more B-ADJP
-... NO_TAG_FOUND
+more I-ADVP
+... O
 http://nblo.gs/80qJu B-CONJP
 
 holy B-CONJP
@@ -633,25 +633,25 @@ MOST B-CONJP
 BORING B-CONJP
 DAY I-NP
 EVER I-VP
-. NO_TAG_FOUND
+. O
 
 A B-ADJP
 TRUE B-ADJP
-friend B-ADJP
-walks B-ADJP
-in B-ADJP
-when B-ADJP
-everybody B-ADJP
-else I-ADJP
-walks I-ADJP
+friend I-NP
+walks B-NP
+in B-PP
+when B-ADVP
+everybody B-VP
+else I-VP
+walks B-PP
 out B-PP
-! NO_TAG_FOUND
+! O
 
 #Astros O
 lineup B-INTJ
 for B-PP
 tonight B-NP
-. NO_TAG_FOUND
+. O
 Keppinger B-INTJ
 sits I-INTJ
 , O
@@ -662,12 +662,12 @@ plays I-ADVP
 CJ B-INTJ
 bats B-ADJP
 5th I-ADJP
-. NO_TAG_FOUND
-@alysonfooter NO_TAG_FOUND
+. O
+@alysonfooter B-INTJ
 http://bit.ly/bHvgCS I-INTJ
 
 RT O
-@rockerfuckerak NO_TAG_FOUND
+@rockerfuckerak B-CONJP
 : O
 What B-NP
 's B-VP
@@ -680,23 +680,23 @@ leave I-VP
 it B-NP
 alone B-CONJP
 , O
-and O
+and I-PP
 do B-VP
 n't I-VP
 regret B-CONJP
-. NO_TAG_FOUND
+. O
 Sometimes B-CONJP
 somethings B-CONJP
 turn I-VP
 in-to B-CONJP
 dumb B-ADJP
 things B-NP
-. NO_TAG_FOUND
+. O
 And O
 that B-SBAR
 's B-VP
 when B-ADVP
-... NO_TAG_FOUND
+... O
 
 Long B-NP
 18k B-ADJP
@@ -706,10 +706,10 @@ and O
 in B-PP
 the B-NP
 books O
-! NO_TAG_FOUND
+! O
 Beauty O
 day I-NP
-. NO_TAG_FOUND
+. I-NP
 Til B-PP
 now B-ADVP
 , O
@@ -722,50 +722,50 @@ next B-NP
 to B-VP
 me B-NP
 spilling O
-over B-PP
+over B-PRT
 to B-VP
 my B-NP
 chair B-ADVP
-.. NO_TAG_FOUND
+.. O
 Just B-ADJP
 belched B-ADJP
-. NO_TAG_FOUND
+. O
 Loudly B-SBAR
-. NO_TAG_FOUND
+. O
 +1 O
 
 RT O
-@JupiterStorm NO_TAG_FOUND
+@JupiterStorm B-INTJ
 : O
 1 B-NP
-. NO_TAG_FOUND
+. O
 6 B-NP
-. NO_TAG_FOUND
+. O
 2011 B-NP
-. NO_TAG_FOUND
+. O
 The B-NP
 day I-NP
-@owlcity NO_TAG_FOUND
+@owlcity B-PP
 went B-VP
-on B-PP
+on B-ADJP
 an B-NP
-Emporer I-NP
+Emporer B-VP
 's B-VP
-New B-ADVP
+New B-NP
 Groove B-ADVP
-rampage B-ADJP
+rampage I-ADVP
 through B-PP
 twitter B-NP
-. NO_TAG_FOUND
+. O
 xD B-INTJ
 
 hows O
 everyones O
 day I-NP
 goin B-VP
-? NO_TAG_FOUND
+? O
 
-@PERSONGUY6661 NO_TAG_FOUND
+@PERSONGUY6661 B-CONJP
 I B-NP
 have B-VP
 n't I-VP
@@ -786,17 +786,17 @@ year I-NP
 you B-NP
 seen I-VP
 them B-NP
-? NO_TAG_FOUND
+? O
 
-@Yeweezii NO_TAG_FOUND
-Jst I-ADVP
-lock I-ADVP
+@Yeweezii B-CONJP
+Jst I-CONJP
+lock B-VP
 her B-NP
 outside B-PP
 4 B-NP
 d O
 nite O
-. NO_TAG_FOUND
+. O
 It B-ADJP
 workz B-ADJP
 al I-NP
@@ -804,7 +804,7 @@ d B-NP
 time I-NP
 :-D O
 
-@keancipriano NO_TAG_FOUND
+@keancipriano B-NP
 hey B-ADVP
 :) B-ADVP
 where B-ADVP
@@ -813,23 +813,23 @@ is B-VP
 your B-NP
 gig I-NP
 tonight B-NP
-? NO_TAG_FOUND
+? O
 :) B-INTJ
 
-@YoDayDay NO_TAG_FOUND
+@YoDayDay B-INTJ
 Nope B-INTJ
-! NO_TAG_FOUND
-*lil B-INTJ
+! I-INTJ
+*lil I-INTJ
 kid B-INTJ
 voice* I-INTJ
 im B-NP
 being B-VP
 stingy B-ADJP
 tonight B-NP
-!! NO_TAG_FOUND
+!! O
 *hmph* O
 
-@Phoebe1_ NO_TAG_FOUND
+@Phoebe1_ B-INTJ
 and O
 i B-NP
 also B-ADVP
@@ -839,45 +839,45 @@ last B-NP
 years I-NP
 eurovision B-PP
 entry B-ADJP
-!! NO_TAG_FOUND
+!! O
 hoppaa B-ADJP
-! NO_TAG_FOUND
+! O
 they B-ADJP
 were B-ADJP
 cool B-ADJP
 too B-ADJP
-!! NO_TAG_FOUND
+!! O
 
 " O
-@DJDROC NO_TAG_FOUND
-: O
-#beforeserato B-NP
-djs B-PP
-actually B-ADJP
+@DJDROC B-ADJP
+: B-ADJP
+#beforeserato B-ADJP
+djs B-INTJ
+actually B-ADVP
 used B-VP
-headphones I-VP
+headphones B-ADVP
 believe B-VP
-it B-NP
+it O
 or O
-not O
-" O
---- NO_TAG_FOUND
-except I-INTJ
-majestic I-INTJ
+not I-NP
+" I-NP
+--- B-INTJ
+except B-ADJP
+majestic I-ADJP
 and O
 me B-NP
 when B-ADVP
 we B-NP
 were B-VP
 drunk B-ADJP
-... NO_TAG_FOUND
+... O
 haha B-INTJ
 
 RT O
-@robmoysey NO_TAG_FOUND
-Eyeopener I-NP
+@robmoysey B-INTJ
+Eyeopener B-NP
 vs I-NP
-. NO_TAG_FOUND
+. O
 Ryerson B-VP
 Quidditch B-ADJP
 team I-NP
@@ -891,14 +891,14 @@ know I-VP
 where B-ADVP
 to B-VP
 get I-VP
-cheap B-ADJP
-brooms I-ADJP
-? NO_TAG_FOUND
-#Ryerson B-SBAR
-@RUQuidditch NO_TAG_FOUND
+cheap I-VP
+brooms B-ADJP
+? O
+#Ryerson B-ADJP
+@RUQuidditch B-ADJP
 #Rams O
 
-@yoopergirl89 NO_TAG_FOUND
+@yoopergirl89 O
 Yeah B-INTJ
 it B-NP
 was B-VP
@@ -907,7 +907,7 @@ long I-NP
 week I-NP
 here B-ADVP
 too B-ADVP
-. NO_TAG_FOUND
+. O
 Luckily B-INTJ
 for B-PP
 me B-NP
@@ -918,7 +918,7 @@ Monday I-NP
 __AND__ O
 Tuesday B-NP
 week I-NP
-. NO_TAG_FOUND
+. O
 
 Day B-NP
 One B-NP
@@ -935,7 +935,7 @@ different B-NP
 people B-NP
 right B-ADVP
 now I-ADVP
-- NO_TAG_FOUND
+- O
 1 B-NP
 ) O
 Eduardo B-INTJ
@@ -944,7 +944,7 @@ Surita I-INTJ
 your B-NP
 a B-NP
 freaking O
-... NO_TAG_FOUND
+... O
 http://tumblr.com/xmciuda0t O
 
 Our B-PP
@@ -955,8 +955,8 @@ This B-NP
 Week I-NP
 : O
 The B-NP
-Drama O
-Edition O
+Drama B-VP
+Edition B-ADJP
 http://dlvr.it/5RfHy O
 
 I B-NP
@@ -976,14 +976,14 @@ yoiu B-NP
 wake B-VP
 up B-PRT
 and O
-..." NO_TAG_FOUND
+..." O
 and O
 got B-VP
 : O
 Part B-NP
 6 B-NP
 :) B-INTJ
-! NO_TAG_FOUND
+! O
 Try B-VP
 it B-NP
 : O
@@ -1000,7 +1000,7 @@ job B-NP
 through B-PP
 a B-NP
 friend I-NP
-. NO_TAG_FOUND
+. O
 After B-ADVP
 meeting B-ADVP
 with B-PP
@@ -1009,10 +1009,10 @@ surgeon B-VP
 , O
 I B-NP
 comple O
-... NO_TAG_FOUND
+... O
 
-@Elinor_Althani NO_TAG_FOUND
-ahhhh B-ADVP
+@Elinor_Althani B-ADJP
+ahhhh I-ADJP
 reading B-VP
 , O
 still B-ADVP
@@ -1034,28 +1034,28 @@ ends B-VP
 inshallah B-ADJP
 :) B-INTJ
 
-@justinbieber NO_TAG_FOUND
-I B-NP
-have B-VP
-this B-NP
-on B-PP
-my B-NP
-computer B-VP
-, O
-it B-NP
-gives B-VP
-me B-NP
-days I-NP
-, I-NP
-hours I-NP
-, O
+@justinbieber B-SBAR
+I B-SBAR
+have B-SBAR
+this B-SBAR
+on B-SBAR
+my B-SBAR
+computer B-SBAR
+, B-SBAR
+it B-SBAR
+gives B-SBAR
+me B-SBAR
+days B-SBAR
+, B-SBAR
+hours B-SBAR
+, B-SBAR
 mintues B-SBAR
-__AND__ O
-seconds B-INTJ
-till B-PP
-Feb B-NP
-9th B-NP
-! NO_TAG_FOUND
+__AND__ B-SBAR
+seconds B-SBAR
+till B-SBAR
+Feb B-SBAR
+9th B-SBAR
+! O
 #purpleglasses B-INTJ
 http://twitpic.com/3nouem I-INTJ
 
@@ -1071,9 +1071,9 @@ like B-VP
 times I-NP
 a B-NP
 year I-NP
-... NO_TAG_FOUND
+... O
 WTF B-INTJ
-?! NO_TAG_FOUND
+?! O
 
 Class O
 , O
@@ -1088,22 +1088,22 @@ non B-ADJP
 existent I-ADJP
 these B-NP
 days I-NP
-. NO_TAG_FOUND
+. O
 
 still B-ADVP
 fly B-VP
 from B-PP
 yesterday B-NP
-.... NO_TAG_FOUND
+.... O
 same B-NP
 clothes B-VP
 from B-PP
 yesterday B-NP
-... NO_TAG_FOUND
+... O
 lmao B-INTJ
 
 RT O
-@Luq_Combs NO_TAG_FOUND
+@Luq_Combs B-ADJP
 : B-ADJP
 Funniest B-ADJP
 thing I-NP
@@ -1111,13 +1111,13 @@ I B-NP
 heard B-VP
 this B-NP
 week I-NP
-. NO_TAG_FOUND
+. O
 Wingo B-ADJP
 tellin I-ADJP
 me B-NP
 and O
 wood B-SBAR
-. NO_TAG_FOUND
+. O
 " O
 I B-NP
 'm B-VP
@@ -1135,26 +1135,26 @@ Fayette B-ADVP
 County I-ADVP
 : O
 " O
-Ever B-VP
-wonder B-ADJP
-if B-SBAR
+Ever B-ADVP
+wonder B-SBAR
+if I-SBAR
 there B-NP
 is B-VP
 life B-NP
 after B-PP
 death B-ADVP
-? NO_TAG_FOUND
-Touch B-INTJ
+? O
+Touch B-SBAR
 my B-NP
 truck I-NP
 and O
 'll B-VP
 find I-VP
 out B-PRT
-." NO_TAG_FOUND
+." O
 
 RT O
-@4MusicGossip NO_TAG_FOUND
+@4MusicGossip B-INTJ
 : O
 Oh B-INTJ
 , O
@@ -1169,7 +1169,7 @@ another B-NP
 chance I-NP
 to B-VP
 see I-VP
-@pink NO_TAG_FOUND
+@pink I-VP
 : O
 My B-NP
 Story B-VP
@@ -1178,20 +1178,20 @@ at B-PP
 tonight B-NP
 http://bit.ly/hLAnXp O
 
-@joejonas NO_TAG_FOUND
-@nickjonas NO_TAG_FOUND
-@kevinjonas NO_TAG_FOUND
-@papajonas NO_TAG_FOUND
-@greggarbo NO_TAG_FOUND
-@johnlloydtaylor NO_TAG_FOUND
+@joejonas B-INTJ
+@nickjonas B-INTJ
+@kevinjonas B-ADJP
+@papajonas I-ADJP
+@greggarbo I-ADJP
+@johnlloydtaylor I-ADJP
 Rock I-ADJP
 to B-PP
 SECTION I-PP
 204 I-PP
 tonight B-NP
-!!!! NO_TAG_FOUND
+!!!! O
 
-@christinamarks_ NO_TAG_FOUND
+@christinamarks_ B-CONJP
 u B-NP
 try I-VP
 to B-PP
@@ -1201,11 +1201,11 @@ April B-NP
 on B-PP
 youtube B-CONJP
 
-@MeredithLim NO_TAG_FOUND
+@MeredithLim O
 No B-INTJ
-. NO_TAG_FOUND
+. O
 Tomorrow B-NP
-. NO_TAG_FOUND
+. O
 
 So O
 I B-NP
@@ -1230,10 +1230,10 @@ within B-PP
 the B-NP
 next B-NP
 month I-NP
-. NO_TAG_FOUND
+. O
 
 RT O
-@OMGwhatateen NO_TAG_FOUND
+@OMGwhatateen B-INTJ
 : O
 RT O
 if B-SBAR
@@ -1243,7 +1243,7 @@ happy I-NP
 it B-NP
 's B-VP
 friday B-NP
-. NO_TAG_FOUND
+. O
 #OMGwhatateen O
 
 #blackholidays B-INTJ
@@ -1255,7 +1255,7 @@ he B-NP
 say B-VP
 she B-NP
 say B-VP
-... NO_TAG_FOUND
+... O
 what B-NP
 do B-VP
 God B-NP
@@ -1263,7 +1263,7 @@ say B-VP
 day B-NP
 " O
 
-@msloaf NO_TAG_FOUND
+@msloaf B-INTJ
 Though I-INTJ
 I B-NP
 do B-VP
@@ -1275,10 +1275,10 @@ offensive B-NP
 and O
 would B-VP
 be I-VP
-difficult I-VP
-to I-VP
+difficult B-PP
+to B-VP
 explain B-PRT
-. NO_TAG_FOUND
+. O
 When B-ADVP
 this B-NP
 stuff I-NP
@@ -1292,10 +1292,10 @@ yell B-PRT
 , O
 " O
 URDUMB O
-!" NO_TAG_FOUND
+!" O
 
 RT O
-@Eeenie_Meenie NO_TAG_FOUND
+@Eeenie_Meenie B-INTJ
 : O
 RT O
 if B-SBAR
@@ -1306,7 +1306,7 @@ that B-NP
 today B-NP
 is B-VP
 FRIDAY B-NP
-! NO_TAG_FOUND
+! O
 :) B-INTJ
 
 People B-INTJ
@@ -1314,7 +1314,7 @@ who B-NP
 tweet B-VP
 to I-VP
 follow I-VP
-@GuyGirlTweets NO_TAG_FOUND
+@GuyGirlTweets B-NP
 will B-VP
 get I-NP
 huge I-NP
@@ -1329,7 +1329,7 @@ me B-NP
 when B-ADVP
 you B-NP
 do B-VP
-! NO_TAG_FOUND
+! O
 
 Was B-INTJ
 hard B-NP
@@ -1343,7 +1343,7 @@ my B-NP
 own I-NP
 tonight B-NP
 but O
-managed B-INTJ
+managed B-SBAR
 a B-NP
 30 I-NP
 min B-VP
@@ -1352,14 +1352,14 @@ and B-ADVP
 plenty I-ADVP
 of B-PP
 weights B-ADVP
-. NO_TAG_FOUND
+. O
 Catching B-VP
-up I-NP
+up B-PRT
 on B-PP
-ufc B-ADVP
-now I-ADVP
+ufc B-NP
+now B-NP
 
-@paulwalk NO_TAG_FOUND
+@paulwalk B-INTJ
 It B-NP
 's B-VP
 the B-NP
@@ -1372,23 +1372,23 @@ living I-VP
 for B-PP
 two B-NP
 weeks I-NP
-. NO_TAG_FOUND
+. O
 Empire B-VP
 State B-PP
 Building B-PP
 = I-PP
 ESB B-NP
-. NO_TAG_FOUND
+. I-NP
 Pretty B-INTJ
 bad B-ADJP
 storm I-ADJP
 here B-ADVP
 last B-NP
 evening I-NP
-. NO_TAG_FOUND
+. O
 
 RT O
-@DesignerDepot NO_TAG_FOUND
+@DesignerDepot B-INTJ
 : I-INTJ
 Minimalist I-INTJ
 Web I-INTJ
@@ -1398,7 +1398,7 @@ When B-ADVP
 Less I-ADVP
 is B-VP
 More B-NP
-- NO_TAG_FOUND
+- O
 http://ow.ly/2FwyX O
 
 No B-NP
@@ -1410,10 +1410,10 @@ bruise B-INTJ
 on B-PP
 my B-NP
 facee B-VP
-... NO_TAG_FOUND
+... O
 wild B-NP
 night I-NP
-! NO_TAG_FOUND
+! O
 
 plez B-NP
 check B-VP
@@ -1434,16 +1434,16 @@ u B-NP
 have B-VP
 time B-NP
 
-@jaredleto NO_TAG_FOUND
-... NO_TAG_FOUND
+@jaredleto B-INTJ
+... O
 ive B-NP
 been B-VP
-to I-VP
-13 B-ADJP
-30stm I-ADJP
-concerts B-ADVP
-now I-ADVP
-and I-ADVP
+to B-VP
+13 B-PP
+30stm I-PP
+concerts I-PP
+now B-NP
+and O
 you B-NP
 never B-ADVP
 got B-VP
@@ -1470,28 +1470,28 @@ winning B-VP
 a B-NP
 Nokia B-CONJP
 5800 B-CONJP
-? NO_TAG_FOUND
+? O
 
-@Jezkwon NO_TAG_FOUND
-@kpop_stuff NO_TAG_FOUND
+@Jezkwon B-ADVP
+@kpop_stuff B-SBAR
 Tweet I-SBAR
 me B-NP
 a B-NP
 member B-VP
 for B-PP
 picspam B-ADVP
-. NO_TAG_FOUND
+. O
 Will B-INTJ
 do B-VP
 them B-NP
 tomorrow B-NP
 morning I-NP
-. NO_TAG_FOUND
+. O
 ( O
 : O
 
-@BexsterBexster NO_TAG_FOUND
-@shinobi32768 NO_TAG_FOUND
+@BexsterBexster B-INTJ
+@shinobi32768 I-INTJ
 I B-NP
 've B-VP
 been I-VP
@@ -1501,12 +1501,12 @@ all B-NP
 week I-NP
 , O
 do B-VP
-n't I-VP
-really B-ADVP
+n't O
+really B-VP
 have B-VP
-a B-NP
-favourite B-VP
-. NO_TAG_FOUND
+a B-ADJP
+favourite I-ADJP
+. O
 It B-NP
 's B-VP
 starting I-VP
@@ -1516,5 +1516,5 @@ pretty I-ADVP
 much I-ADVP
 the B-NP
 same I-NP
-. NO_TAG_FOUND
+. O
 
